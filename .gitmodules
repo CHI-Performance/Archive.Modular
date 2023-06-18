@@ -1,0 +1,21 @@
+[submodule "datasets/gl553vd"]
+	path = datasets/gl553vd
+	url = https://github.com/CHI-Performance/HardwarePerformance.asus.gl553vd.git
+[submodule "datasets/x556u"]
+	path = datasets/x556u
+	url = https://github.com/CHI-Performance/HardwarePerformance.asus.x556u.git
+[submodule "datasets/sabertooth"]
+	path = datasets/sabertooth
+	url = https://github.com/CHI-Performance/HardwarePerformance.asus.sabertooth.git
+[submodule "datasets/x8dtu"]
+	path = datasets/x8dtu
+	url = https://github.com/CHI-Performance/HardwarePerformance.supermicro.x8dtu.git
+[submodule "datasets/RPI-4"]
+	path = datasets/RPI-4
+	url = https://github.com/CHI-Performance/HardwarePerformance.raspberry-pi.4.git
+[submodule "datasets/AC2003"]
+	path = datasets/AC2003
+	url = https://github.com/CHI-Performance/HardwarePerformance.oneplus.ac2003.git
+[submodule "datasets/NUC7JYB"]
+	path = datasets/NUC7JYB
+	url = https://github.com/CHI-Performance/HardwarePerformance.intel.NUC7JYB.git
